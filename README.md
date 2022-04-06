@@ -1,4 +1,4 @@
-If you are are taking "Learn Ethical Hacking From Scratch | Udemy" by Zaid Sabih and using Kali 2022 x64 Customized by zSecurity 1.0.7 and TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS], you might find this helpful. In the begining, I am able to enter monitor mode. However after a few days, I found out it doesn't allow to enter monitor mode. I think  TP-Link TL-WN722N v2/v3 have automatically updated its driver. Then, I find a video from David Bombal (https://www.youtube.com/watch?v=tYnjMiTTdms) but still can't perfectly solve the issue. However, I find below steps work fine for me.
+Using Kali 2022 x64 Customized by zSecurity 1.0.7 and TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS], you might find this helpful. In the begining, I am able to enter monitor mode. However after a few days, I found out it doesn't allow to enter monitor mode. I think  TP-Link TL-WN722N v2/v3 have automatically updated its driver. Then, I find a video from David Bombal (https://www.youtube.com/watch?v=tYnjMiTTdms) but still can't perfectly solve the issue. However, I find below steps work fine for me.
 
 1. sudo apt update
 2. sudo apt upgrade 
